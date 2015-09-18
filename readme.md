@@ -12,7 +12,7 @@
 - Run this command:
 
 ```bash
-gcc -std=c99 -o Snake.exe Snake.c -lmingw32 -lSDLmain -lSDL -lSDL_ttf -mwindows
+gcc -std=c99 -o bin/Snake.exe Snake.c -lmingw32 -lSDLmain -lSDL -lSDL_ttf -mwindows
 ```
 
 ## Known issues
